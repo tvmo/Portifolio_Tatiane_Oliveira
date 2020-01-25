@@ -17,15 +17,13 @@ Possuo experiência na área de Gerontologia com ênfase em processo de envelhec
 
 
 
-### Experiência profissional:
+### Experiência profissional
 
 - Gestão institucional;
 - Avaliação gerontológica;
 - Capacitacão de cuidados, auxiliares e técnicos de enfermagem;
 - Resolução de conflitos familiares; 
-- 
-
-
+ 
 
 
 
