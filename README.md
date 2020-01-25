@@ -13,20 +13,7 @@ Possuo experiência na área de Gerontologia com ênfase em processo de envelhec
 - Resolução de conflitos familiares; 
 - 
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
@@ -35,7 +22,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tvmo/Gerontologa-Tatiane-Oliveira/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<img src="imagens/minha-foto.jpg">
 
 ### Contato
 
