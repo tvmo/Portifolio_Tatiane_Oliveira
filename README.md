@@ -4,7 +4,7 @@
 
 ## Sobre
 
-<b>TATIANE VIEIRA MARTINS DE OLIVEIRA</b> 
+TATIANE VIEIRA MARTINS DE OLIVEIRA 
 
 Gerontóga (2013- 2016) e mestra em Gerontologia pelo Programa de Pós-Graduação em Gerontologia (PPGGero * 2018 - 2020) pela Universidade Federal de São Carlos.
 
@@ -17,8 +17,7 @@ Possuo experiência na área de Gerontologia com ênfase em processo de envelhec
 
 ### EXPERIÊNCIA PROFISSIONAL
 
-##  NOV- MARÇO/2018 – INSTITUIÇÃO DE LONGA PERMANENCIA PARA IDOSOS
-RECANTO DA VIDA - SOROCABA/SP
+##  NOV- MARÇO/2018 – INSTITUIÇÃO DE LONGA PERMANENCIA PARA IDOSOS RECANTO DA VIDA - SOROCABA/SP
 Cargo: Gerontóloga
 Principais atividades: Gestão institucional, acompanhamento individual do idoso e apoio
 familiar, recrutamento e capacitação dos cuidadores de idosos, auxiliares e técnicos em
