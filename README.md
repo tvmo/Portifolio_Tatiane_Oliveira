@@ -1,12 +1,17 @@
-## Welcome to GitHub Pages
+## Seja bem vind@s!
 
-You can use the [editor on GitHub](https://github.com/tvmo/Gerontologa-Tatiane-Oliveira/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Gerontóga e Mestra  em Gerontologia pelo Programa de Pós-Graduação em Gerontologia (PPGGero) pela Universidade Federal de São Carlos.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Habilidaes
 
-### Markdown
+Tem experiência na área de Gerontologia com ênfase em processo de envelhecimento, pesquisas em contexto de alta vulnerabilidade social, pessoas em situação de rua e gerontologia social. 
+### Experiência profissional:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Gestão institucional;
+- Avaliação gerontológica;
+- Capacitacão de cuidados, auxiliares e técnicos de enfermagem;
+- Resolução de conflitos familiares; 
+- 
 
 ```markdown
 Syntax highlighted code block
