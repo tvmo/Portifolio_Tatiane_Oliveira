@@ -1,10 +1,10 @@
 ## Seja bem vind@s!
 
-Gerontóga e Mestra  em Gerontologia pelo Programa de Pós-Graduação em Gerontologia (PPGGero) pela Universidade Federal de São Carlos.
+Gerontóga e mestra em Gerontologia pelo Programa de Pós-Graduação em Gerontologia (PPGGero) pela Universidade Federal de São Carlos.
 
 ### Habilidaes
 
-Tem experiência na área de Gerontologia com ênfase em processo de envelhecimento, pesquisas em contexto de alta vulnerabilidade social, pessoas em situação de rua e gerontologia social. 
+Possuo experiência na área de Gerontologia com ênfase em processo de envelhecimento, pesquisas em contexto de alta vulnerabilidade social, pessoas em situação de rua e gerontologia social. 
 ### Experiência profissional:
 
 - Gestão institucional;
@@ -37,6 +37,10 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tvmo/Gerontologa-Tatiane-Oliveira/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Contato
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Para mais informações: 
+
+E-mail:  tatianevmoliveira@gmail.com
+Telefone: +5511971281618
+Instagram: @tatianevmo
