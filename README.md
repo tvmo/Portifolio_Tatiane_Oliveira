@@ -1,13 +1,3 @@
-<!PORTIFÓLIO html>
-<html>
-<head>
-    <title>Gerontóloga Tatiane Oliveira</title>
-</head>
-<body>
-   
-</body>
-</html>
-
 
 
 ## Seja bem vind@s!
