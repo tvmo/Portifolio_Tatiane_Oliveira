@@ -6,7 +6,7 @@
 
 TATIANE VIEIRA MARTINS DE OLIVEIRA 
 
-Gerontóga (2013- 2016) e mestra em Gerontologia pelo Programa de Pós-Graduação em Gerontologia (PPGGero * 2018 - 2020) pela Universidade Federal de São Carlos.
+Gerontóloga (2013- 2016) e mestra em Gerontologia pelo Programa de Pós-Graduação em Gerontologia (PPGGero * 2018 - 2020) pela Universidade Federal de São Carlos.
 
 
 
